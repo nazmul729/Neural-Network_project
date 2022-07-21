@@ -11,7 +11,7 @@ Among them, our voting method have shown better performance than the invidividua
 In this project, I have collected tweets using the Twitter API. I intentionally chose to use some overlapping topics between tweets in order to encourage cross-language approaches. I filtered the tweets for duplicates. The training and test sets were created from the 2017 annotations. Thus, the scores for tweets across the training and
 and test sets are not directly comparable. However, the scores in each dataset indicate relative positions of the tweets in that dataset. [The Training Set was taken from EmoInt 2017, rereleased Aug, 2017; last updated Nov. 23, 2017 and the Development Set was released Sep. 25, 2017; last updated Nov. 23, 2017 and all test tweets were collected over the period of December 2016-January 2017](https://arxiv.org/abs/1804.06658). The data files include the tweet id, the tweet, the emotion of the tweet and the emotion intensity (for training and test sets). There are around 7103 tweets in the training set, and 71817 in the test set (across all the emotions).
 
-Several preprocessings have been used, 
+Several preprocessings have been used,
 
 - **[Data Cleaning](https://ieeexplore.ieee.org/document/7050801)** Tweets are not always syntactically well-structured and sometimes there is no meaning of the tweets. All of the annotated lexica are also needed to be cleaned in the same way as the tweets are.
 - **[Tokenization](https://dl.acm.org/doi/10.3115/992424.992434)** Tokenization is a process to split sentence or longer string of text into smaller pieces, or tokens. Larger chunks of text can be tokenized into sentences, sentences can be tokenized into words, etc. Tokenization is necessary due to text lexical analysis.
@@ -31,3 +31,5 @@ I have evaluated several feature extraction methods like,
   7. ***Word2Vec Model***
   8. ***TF-IDF Value***
   9. ***Entropy Based***
+
+## Proposed Neural-Tree based Architecture
