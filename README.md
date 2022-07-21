@@ -50,4 +50,10 @@ Model-3: Using 3 SGD algorithms
   - SGD smoothed hinge loss Parameter
   - SGD with logistic regression
 
-  
+
+## Empirical Evaluation
+
+![Voting method](https://github.com/nazmul729/Neural-Network_project/blob/main/model1.png)
+![Voting method](https://github.com/nazmul729/Neural-Network_project/blob/main/model2.png)
+![Voting method](https://github.com/nazmul729/Neural-Network_project/blob/main/model3.png)
+![Voting method](https://github.com/nazmul729/Neural-Network_project/blob/main/allmodel.png)
