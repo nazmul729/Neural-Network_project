@@ -15,3 +15,7 @@ Several preprocessings have been used,
 
 - **[Data Cleaning](https://ieeexplore.ieee.org/document/7050801)** Tweets are not always syntactically well-structured and sometimes there is no meaning of the tweets. All of the annotated lexica are also needed to be cleaned in the same way as the tweets are.
 - **[Tokenization](https://dl.acm.org/doi/10.3115/992424.992434)** Tokenization is a process to split sentence or longer string of text into smaller pieces, or tokens. Larger chunks of text can be tokenized into sentences, sentences can be tokenized into words, etc. Tokenization is necessary due to text lexical analysis.
+- **[Normalization](https://pubmed.ncbi.nlm.nih.gov/23043124/)** Normalizing text can mean performing 3 distinct jobs: 
+  1. Stemming is the process of eliminating unnecessary words from a word in order to obtain a word stem. 
+  2. lemmatization is the ability to capture canonical forms based on a word's lemma. 
+  3. The third option contains a list of tasks: remove stop words, punctuations, web addresses, blank spaces, the numbers, and convert the entire text to lower case.
