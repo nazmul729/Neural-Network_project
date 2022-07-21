@@ -19,3 +19,15 @@ Several preprocessings have been used,
   1. Stemming is the process of eliminating unnecessary words from a word in order to obtain a word stem. 
   2. lemmatization is the ability to capture canonical forms based on a word's lemma. 
   3. The third option contains a list of tasks: remove stop words, punctuations, web addresses, blank spaces, the numbers, and convert the entire text to lower case.
+
+## Feature extraction
+I have evaluated several feature extraction methods like,
+  1. ***Total Emotion Count (TEC)***
+  2. ***Graded Emotion Count (GEC)***
+  3. ***N-Grams***
+  4. ***Part-of-Speech (POS) features***
+  5. ***Word HashTags***
+  6. ***SentiWordNet (SWN)***
+  7. ***Word2Vec Model***
+  8. ***TF-IDF Value***
+  9. ***Entropy Based***
