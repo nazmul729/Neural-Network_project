@@ -33,3 +33,4 @@ I have evaluated several feature extraction methods like,
   9. ***Entropy Based***
 
 ## Proposed Neural-Tree based Architecture
+![Voting method](https://user-images.githubusercontent.com/42664968/180129983-1cf7d14e-c8cd-48ae-b196-6dc762a0603d.PNG)
