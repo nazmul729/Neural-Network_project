@@ -44,6 +44,7 @@ Model-2: Using three MLP algorithms-
   - MLP with quasi-Newton methods
   - MLP with SGD
   - MLP with SGD by Kingma
+
 Model-3: Using 3 SGD algorithms
   - SGD with soft-margin
   - SGD smoothed hinge loss Parameter
