@@ -61,5 +61,5 @@ Model-3: Using 3 SGD algorithms
 
 ## Credits
 
-Special thanks to [Professor Dr Anthony S. Maida](https://people.cmix.louisiana.edu/maida/)
-Implemented this project using Python frameworks: Numpy, Pandas, Scikit-learn.
+- Special thanks to [Professor Dr Anthony S. Maida](https://people.cmix.louisiana.edu/maida/)
+- Implemented this project using Python frameworks: Numpy, Pandas, Scikit-learn.
