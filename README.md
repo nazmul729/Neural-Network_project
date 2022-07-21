@@ -34,3 +34,19 @@ I have evaluated several feature extraction methods like,
 
 ## Proposed Neural-Tree based Architecture
 ![Voting method](https://user-images.githubusercontent.com/42664968/180129983-1cf7d14e-c8cd-48ae-b196-6dc762a0603d.PNG)
+
+Model-1: Using three Tree-based algorithms-
+  - Naive Bias
+  - Support Vector Machine
+  - Decision Tree Classifier (C4.5)
+  
+Model-2: Using three MLP algorithms-
+  - MLP with quasi-Newton methods
+  - MLP with SGD
+  - MLP with SGD by Kingma
+Model-3: Using 3 SGD algorithms
+  - SGD with soft-margin
+  - SGD smoothed hinge loss Parameter
+  - SGD with logistic regression
+
+  
