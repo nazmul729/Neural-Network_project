@@ -57,3 +57,9 @@ Model-3: Using 3 SGD algorithms
 ![Voting method](https://github.com/nazmul729/Neural-Network_project/blob/main/model2.png)
 ![Voting method](https://github.com/nazmul729/Neural-Network_project/blob/main/model3.png)
 ![Voting method](https://github.com/nazmul729/Neural-Network_project/blob/main/allmodel.png)
+
+
+## Credits
+
+Special thanks to [Professor Dr Anthony S. Maida](https://people.cmix.louisiana.edu/maida/)
+Implemented this project using Python frameworks: Numpy, Pandas, Scikit-learn.
